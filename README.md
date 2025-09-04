@@ -1,1 +1,1 @@
-This Repo is Only for Practice Quetion of Array , String , OOPS etc..
+This Repo is Only for Practice Questions of Array , String , OOPS etc..
